@@ -61,16 +61,16 @@ The system combines **high-speed deterministic rules**, **bounded subset-sum com
 
 ```
   ┌────────────────────────────────────────────────────────┐
-  │ 📁 File Upload (Bank, Settlement, Ledger CSVs)        │
+  │ 📁 File Upload (Bank, Settlement, Ledger CSVs)         │
   └───────────────────────────┬────────────────────────────┘
                               │
   ┌───────────────────────────▼────────────────────────────┐
-  │ 1. Schema Auto-Mapper & Date Normalizer               │
-  │    • Synonym fast-pass + LLM fallback                 │
+  │ 1. Schema Auto-Mapper & Date Normalizer                │
+  │    • Synonym fast-pass + LLM fallback                  │
   └───────────────────────────┬────────────────────────────┘
                               │
   ┌───────────────────────────▼────────────────────────────┐
-  │ 2. Data Quality Pre-Check Engine                      │
+  │ 2. Data Quality Pre-Check Engine                       │
   │    • Validates nulls, duplicates, malformed dates      │
   │    • Safety Gate: Blocks run on critical errors        │
   └───────────────────────────┬────────────────────────────┘
@@ -82,11 +82,11 @@ The system combines **high-speed deterministic rules**, **bounded subset-sum com
                               │
   ┌───────────────────────────▼────────────────────────────┐
   │ 4. Reconciliation Engine                               │
-  │    ├── Stage 1: Deterministic & Bounded Subset-Sum    │
-  │    ├── Stage 2: ReAct LLM Agent Loop (Max 4 tools)    │
-  │    ├── Stage 3: Human-in-the-Loop Review Queue (<70%) │
+  │    ├── Stage 1: Deterministic & Bounded Subset-Sum     │
+  │    ├── Stage 2: ReAct LLM Agent Loop (Max 4 tools)     │
+  │    ├── Stage 3: Human-in-the-Loop Review Queue (<70%)  │
   │    ├── Stage 4: Confidence Calibration Scorecard       │
-  │    └── Stage 5: Financial Expense & Audit Export     │
+  │    └── Stage 5: Financial Expense & Audit Export       │
   └────────────────────────────────────────────────────────┘
 ```
 
