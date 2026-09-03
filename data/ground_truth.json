@@ -1,0 +1,497 @@
+{
+  "REF1001": {
+    "expected_match": true,
+    "true_category": "exact_match",
+    "notes": "Clean standard transaction",
+    "related_ids": [
+      "ORD1001",
+      "TXN1001",
+      "STL1001"
+    ]
+  },
+  "REF1002": {
+    "expected_match": true,
+    "true_category": "exact_match",
+    "notes": "Clean standard transaction",
+    "related_ids": [
+      "ORD1002",
+      "TXN1002",
+      "STL1002"
+    ]
+  },
+  "REF1003": {
+    "expected_match": true,
+    "true_category": "exact_match",
+    "notes": "Clean standard transaction",
+    "related_ids": [
+      "ORD1003",
+      "TXN1003",
+      "STL1003"
+    ]
+  },
+  "REF1004": {
+    "expected_match": true,
+    "true_category": "exact_match",
+    "notes": "Clean standard transaction",
+    "related_ids": [
+      "ORD1004",
+      "TXN1004",
+      "STL1004"
+    ]
+  },
+  "REF1005": {
+    "expected_match": true,
+    "true_category": "exact_match",
+    "notes": "Clean standard transaction",
+    "related_ids": [
+      "ORD1005",
+      "TXN1005",
+      "STL1005"
+    ]
+  },
+  "REF1006": {
+    "expected_match": true,
+    "true_category": "exact_match",
+    "notes": "Clean standard transaction",
+    "related_ids": [
+      "ORD1006",
+      "TXN1006",
+      "STL1006"
+    ]
+  },
+  "REF1007": {
+    "expected_match": true,
+    "true_category": "exact_match",
+    "notes": "Clean standard transaction",
+    "related_ids": [
+      "ORD1007",
+      "TXN1007",
+      "STL1007"
+    ]
+  },
+  "REF1008": {
+    "expected_match": true,
+    "true_category": "exact_match",
+    "notes": "Clean standard transaction",
+    "related_ids": [
+      "ORD1008",
+      "TXN1008",
+      "STL1008"
+    ]
+  },
+  "REF1009": {
+    "expected_match": true,
+    "true_category": "exact_match",
+    "notes": "Clean standard transaction",
+    "related_ids": [
+      "ORD1009",
+      "TXN1009",
+      "STL1009"
+    ]
+  },
+  "REF1010": {
+    "expected_match": true,
+    "true_category": "exact_match",
+    "notes": "Clean standard transaction",
+    "related_ids": [
+      "ORD1010",
+      "TXN1010",
+      "STL1010"
+    ]
+  },
+  "REF1011": {
+    "expected_match": true,
+    "true_category": "exact_match",
+    "notes": "Clean standard transaction",
+    "related_ids": [
+      "ORD1011",
+      "TXN1011",
+      "STL1011"
+    ]
+  },
+  "REF1012": {
+    "expected_match": true,
+    "true_category": "exact_match",
+    "notes": "Clean standard transaction",
+    "related_ids": [
+      "ORD1012",
+      "TXN1012",
+      "STL1012"
+    ]
+  },
+  "REF1013": {
+    "expected_match": true,
+    "true_category": "exact_match",
+    "notes": "Clean standard transaction",
+    "related_ids": [
+      "ORD1013",
+      "TXN1013",
+      "STL1013"
+    ]
+  },
+  "REF1014": {
+    "expected_match": true,
+    "true_category": "exact_match",
+    "notes": "Clean standard transaction",
+    "related_ids": [
+      "ORD1014",
+      "TXN1014",
+      "STL1014"
+    ]
+  },
+  "REF1015": {
+    "expected_match": true,
+    "true_category": "exact_match",
+    "notes": "Clean standard transaction",
+    "related_ids": [
+      "ORD1015",
+      "TXN1015",
+      "STL1015"
+    ]
+  },
+  "REF1016": {
+    "expected_match": true,
+    "true_category": "exact_match",
+    "notes": "Clean standard transaction",
+    "related_ids": [
+      "ORD1016",
+      "TXN1016",
+      "STL1016"
+    ]
+  },
+  "REF1017": {
+    "expected_match": true,
+    "true_category": "exact_match",
+    "notes": "Clean standard transaction",
+    "related_ids": [
+      "ORD1017",
+      "TXN1017",
+      "STL1017"
+    ]
+  },
+  "REF1018": {
+    "expected_match": true,
+    "true_category": "exact_match",
+    "notes": "Clean standard transaction",
+    "related_ids": [
+      "ORD1018",
+      "TXN1018",
+      "STL1018"
+    ]
+  },
+  "REF1019": {
+    "expected_match": true,
+    "true_category": "exact_match",
+    "notes": "Clean standard transaction",
+    "related_ids": [
+      "ORD1019",
+      "TXN1019",
+      "STL1019"
+    ]
+  },
+  "REF1020": {
+    "expected_match": true,
+    "true_category": "exact_match",
+    "notes": "Clean standard transaction",
+    "related_ids": [
+      "ORD1020",
+      "TXN1020",
+      "STL1020"
+    ]
+  },
+  "REF1021": {
+    "expected_match": true,
+    "true_category": "exact_match",
+    "notes": "Clean standard transaction",
+    "related_ids": [
+      "ORD1021",
+      "TXN1021",
+      "STL1021"
+    ]
+  },
+  "REF1022": {
+    "expected_match": true,
+    "true_category": "exact_match",
+    "notes": "Clean standard transaction",
+    "related_ids": [
+      "ORD1022",
+      "TXN1022",
+      "STL1022"
+    ]
+  },
+  "REF1023": {
+    "expected_match": true,
+    "true_category": "exact_match",
+    "notes": "Clean standard transaction",
+    "related_ids": [
+      "ORD1023",
+      "TXN1023",
+      "STL1023"
+    ]
+  },
+  "REF1024": {
+    "expected_match": true,
+    "true_category": "exact_match",
+    "notes": "Clean standard transaction",
+    "related_ids": [
+      "ORD1024",
+      "TXN1024",
+      "STL1024"
+    ]
+  },
+  "REF1025": {
+    "expected_match": true,
+    "true_category": "exact_match",
+    "notes": "Clean standard transaction",
+    "related_ids": [
+      "ORD1025",
+      "TXN1025",
+      "STL1025"
+    ]
+  },
+  "REF1026": {
+    "expected_match": true,
+    "true_category": "exact_match",
+    "notes": "Clean standard transaction",
+    "related_ids": [
+      "ORD1026",
+      "TXN1026",
+      "STL1026"
+    ]
+  },
+  "REF1027": {
+    "expected_match": true,
+    "true_category": "exact_match",
+    "notes": "Clean standard transaction",
+    "related_ids": [
+      "ORD1027",
+      "TXN1027",
+      "STL1027"
+    ]
+  },
+  "REF1028": {
+    "expected_match": true,
+    "true_category": "exact_match",
+    "notes": "Clean standard transaction",
+    "related_ids": [
+      "ORD1028",
+      "TXN1028",
+      "STL1028"
+    ]
+  },
+  "REF1029": {
+    "expected_match": true,
+    "true_category": "exact_match",
+    "notes": "Clean standard transaction",
+    "related_ids": [
+      "ORD1029",
+      "TXN1029",
+      "STL1029"
+    ]
+  },
+  "REF1030": {
+    "expected_match": true,
+    "true_category": "exact_match",
+    "notes": "Clean standard transaction",
+    "related_ids": [
+      "ORD1030",
+      "TXN1030",
+      "STL1030"
+    ]
+  },
+  "REF1031": {
+    "expected_match": true,
+    "true_category": "exact_match",
+    "notes": "Clean standard transaction",
+    "related_ids": [
+      "ORD1031",
+      "TXN1031",
+      "STL1031"
+    ]
+  },
+  "REF1032": {
+    "expected_match": true,
+    "true_category": "exact_match",
+    "notes": "Clean standard transaction",
+    "related_ids": [
+      "ORD1032",
+      "TXN1032",
+      "STL1032"
+    ]
+  },
+  "REF1033": {
+    "expected_match": true,
+    "true_category": "exact_match",
+    "notes": "Clean standard transaction",
+    "related_ids": [
+      "ORD1033",
+      "TXN1033",
+      "STL1033"
+    ]
+  },
+  "REF1034": {
+    "expected_match": true,
+    "true_category": "exact_match",
+    "notes": "Clean standard transaction",
+    "related_ids": [
+      "ORD1034",
+      "TXN1034",
+      "STL1034"
+    ]
+  },
+  "REF1035": {
+    "expected_match": true,
+    "true_category": "exact_match",
+    "notes": "Clean standard transaction",
+    "related_ids": [
+      "ORD1035",
+      "TXN1035",
+      "STL1035"
+    ]
+  },
+  "REF_BUNDLE_1": {
+    "expected_match": true,
+    "true_category": "many_to_one",
+    "notes": "Bundled payout of 2 orders: ['ORD1036', 'ORD1037']",
+    "related_ids": [
+      "ORD1036",
+      "ORD1037",
+      "STL_BUNDLE_1"
+    ]
+  },
+  "REF_BUNDLE_2": {
+    "expected_match": true,
+    "true_category": "many_to_one",
+    "notes": "Bundled payout of 3 orders: ['ORD1038', 'ORD1039', 'ORD1040']",
+    "related_ids": [
+      "ORD1038",
+      "ORD1039",
+      "ORD1040",
+      "STL_BUNDLE_2"
+    ]
+  },
+  "REF_BUNDLE_3": {
+    "expected_match": true,
+    "true_category": "many_to_one",
+    "notes": "Bundled payout of 2 orders: ['ORD1041', 'ORD1042']",
+    "related_ids": [
+      "ORD1041",
+      "ORD1042",
+      "STL_BUNDLE_3"
+    ]
+  },
+  "REF_FEE_1": {
+    "expected_match": true,
+    "true_category": "fee_adjustment",
+    "notes": "Custom fee rate 1% GST applied instead of 2%",
+    "related_ids": [
+      "ORD1043"
+    ]
+  },
+  "REF_FEE_2": {
+    "expected_match": true,
+    "true_category": "fee_adjustment",
+    "notes": "Custom fee rate 1% GST applied instead of 2%",
+    "related_ids": [
+      "ORD1044"
+    ]
+  },
+  "REF_DRIFT_1": {
+    "expected_match": true,
+    "true_category": "timing_drift",
+    "notes": "Settlement delayed by 4 days due to bank holiday",
+    "related_ids": [
+      "ORD1045"
+    ]
+  },
+  "REF_DRIFT_2": {
+    "expected_match": true,
+    "true_category": "timing_drift",
+    "notes": "Settlement delayed by 4 days due to bank holiday",
+    "related_ids": [
+      "ORD1046"
+    ]
+  },
+  "REF_DUP_999_ORD1047": {
+    "expected_match": true,
+    "true_category": "duplicate_reference",
+    "notes": "Duplicate reference ID reused across distinct orders",
+    "related_ids": [
+      "ORD1047"
+    ]
+  },
+  "REF_DUP_999_ORD1048": {
+    "expected_match": true,
+    "true_category": "duplicate_reference",
+    "notes": "Duplicate reference ID reused across distinct orders",
+    "related_ids": [
+      "ORD1048"
+    ]
+  },
+  "REF_TIPO_888": {
+    "expected_match": true,
+    "true_category": "typo_reference_id",
+    "notes": "Typo in reference ID: REF_TIPO_888 vs intended REF_TYPO_888",
+    "related_ids": [
+      "ORD1049"
+    ]
+  },
+  "REF_TYP0_777": {
+    "expected_match": true,
+    "true_category": "typo_reference_id",
+    "notes": "Typo in reference ID: REF_TYP0_777 vs intended REF_TYPO_777",
+    "related_ids": [
+      "ORD1050"
+    ]
+  },
+  "REF_PARTIAL_1": {
+    "expected_match": true,
+    "true_category": "partial_refund",
+    "notes": "Partial refund processed before payout settlement",
+    "related_ids": [
+      "ORD1051"
+    ]
+  },
+  "REF_PARTIAL_2": {
+    "expected_match": true,
+    "true_category": "partial_refund",
+    "notes": "Partial refund processed before payout settlement",
+    "related_ids": [
+      "ORD1052"
+    ]
+  },
+  "REF_ROUND_1": {
+    "expected_match": true,
+    "true_category": "currency_rounding",
+    "notes": "3 cents rounding variance due to foreign currency conversion",
+    "related_ids": [
+      "ORD1053"
+    ]
+  },
+  "REF_ROUND_2": {
+    "expected_match": true,
+    "true_category": "currency_rounding",
+    "notes": "3 cents rounding variance due to foreign currency conversion",
+    "related_ids": [
+      "ORD1054"
+    ]
+  },
+  "REF_UNRESOLVED_1": {
+    "expected_match": false,
+    "true_category": "unresolved",
+    "notes": "Orphaned transaction present in bank/settlement but absent from ledger",
+    "related_ids": []
+  },
+  "REF_UNRESOLVED_2": {
+    "expected_match": false,
+    "true_category": "unresolved",
+    "notes": "Orphaned transaction present in bank/settlement but absent from ledger",
+    "related_ids": []
+  },
+  "REF_UNRESOLVED_3": {
+    "expected_match": false,
+    "true_category": "unresolved",
+    "notes": "Orphaned transaction present in bank/settlement but absent from ledger",
+    "related_ids": []
+  }
+}

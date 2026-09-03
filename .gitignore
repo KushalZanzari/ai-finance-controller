@@ -1,0 +1,8 @@
+.env
+__pycache__/
+*.pyc
+.pytest_cache/
+outputs/*.json
+!outputs/.gitkeep
+.streamlit/
+EXPLANATION.md
